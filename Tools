@@ -1,0 +1,17 @@
+
+For any given IoT product, below interfaces are connected as per requirement and communicated Internally / Externally.
+
+Find below tools to perform Security Assessments on IoT (Internet of Things).
+
+#Automotive #ICS #IIoT #SCADA #HealthCare #Industry4.0
+
+Internal Interfaces
+    WiFi Interface
+         Description #01  : WiFi protocol fuzzing tool using openwifi
+         Link             : https://github.com/alipay/Owfuzz 
+        
+         Description #02  : WiFi Brute Force. script undetectable and secure!
+         Link             : https://github.com/Squuv/WifiBF
+         
+         Description #03  : A python program to create a fake AP and sniff data
+         Link             : https://github.com/xdavidhu/mitmAP
