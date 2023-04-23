@@ -1,0 +1,91 @@
+```topojson
+{
+  "name": "IoT Security",
+  "domain": "mitre-attack",
+  "description": "This matrix includes common IoT security attacks, techniques, and tactics.",
+  "version": "1.0",
+  "tactics": [
+    {
+      "id": "TA0001",
+      "name": "Initial Access",
+      "description": "Adversaries may gain initial access to an IoT device or network through a variety of means."
+    },
+    {
+      "id": "TA0002",
+      "name": "Execution",
+      "description": "Adversaries may execute code on an IoT device or network to carry out their objectives."
+    },
+    {
+      "id": "TA0003",
+      "name": "Persistence",
+      "description": "Adversaries may maintain their presence on an IoT device or network to ensure continued access and control."
+    },
+    {
+      "id": "TA0004",
+      "name": "Privilege Escalation",
+      "description": "Adversaries may attempt to elevate their privileges on an IoT device or network to gain greater access and control."
+    },
+    {
+      "id": "TA0005",
+      "name": "Defense Evasion",
+      "description": "Adversaries may take steps to avoid detection or hinder investigation by IoT security controls or analysts."
+    },
+    {
+      "id": "TA0006",
+      "name": "Credential Access",
+      "description": "Adversaries may attempt to steal or obtain valid credentials for an IoT device or network."
+    },
+    {
+      "id": "TA0007",
+      "name": "Discovery",
+      "description": "Adversaries may conduct various forms of discovery to learn about an IoT device or network and identify potential targets or vulnerabilities."
+    },
+    {
+      "id": "TA0008",
+      "name": "Lateral Movement",
+      "description": "Adversaries may move laterally within an IoT device or network to gain access to additional systems or data."
+    },
+    {
+      "id": "TA0009",
+      "name": "Collection",
+      "description": "Adversaries may collect data or other resources from an IoT device or network."
+    },
+    {
+      "id": "TA0010",
+      "name": "Exfiltration",
+      "description": "Adversaries may attempt to remove data or other resources from an IoT device or network."
+    },
+    {
+      "id": "TA0011",
+      "name": "Command and Control",
+      "description": "Adversaries may establish and maintain remote command and control over an IoT device or network."
+    }
+  ],
+  "techniques": [
+    {
+      "id": "T1496.002",
+      "name": "MAC Address Spoofing",
+      "description": "Adversaries may conduct MAC address spoofing to evade detection and gain unauthorized access to an IoT device or network.",
+      "tactic": "defense-evasion"
+    },
+    {
+      "id": "T1499.004",
+      "name": "OS Command Injection",
+      "description": "Adversaries may execute malicious commands on an IoT device by injecting operating system commands into the input parameters of applications running on the device.",
+      "tactic": "execution"
+    },
+    {
+      "id": "T1536.002",
+      "name": "Network Sniffing",
+      "description": "Adversaries may sniff network traffic to steal sensitive information, such as passwords or data transmitted between IoT devices.",
+      "tactic": "collection"
+    },
+    {
+      "id": "T1498.001",
+      "name": "Flood",
+      "description": "Adversaries may conduct flood attacks to overwhelm an IoT device or network with a high volume of traffic or requests, causing a denial-of-service (DoS) condition.",
+      "tactic": "impact"
+    }
+  ]
+}
+```
