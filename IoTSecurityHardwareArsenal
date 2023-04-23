@@ -1,0 +1,108 @@
+
+IoT Security - Hardware Arsenal
+
+
+
+Bluetooth Interface :
+  Ubertooth One - a powerful open-source tool for Bluetooth and BLE development, designed to facilitate research in security testing, packet sniffing, and protocol reverse engineering. You can buy it from the Great Scott Gadgets website: https://greatscottgadgets.com/ubertoothone/
+
+  Nordic nRF52840 Dongle - a USB dongle that can be used to develop and test BLE applications. It includes an integrated Arm Cortex-M4 processor, which can be programmed using Nordic Semiconductor's software development kit (SDK). You can buy it from the Nordic Semiconductor website or from various online retailers such as Digikey or Mouser.
+
+  TI CC2650STK SensorTag - a small, low-power sensor board that contains a range of sensors and can be used to develop and test BLE applications. It can also be used for security testing by analyzing its BLE communication. You can buy it from the Texas Instruments website or from various online retailers such as Digikey or Mouser.
+
+  Adafruit Bluefruit LE Sniffer - a low-cost sniffer that can capture and analyze BLE traffic. It is compatible with Wireshark, a popular open source packet analyzer. You can buy it from the Adafruit website: https://www.adafruit.com/product/2269
+
+  PwnPad - a tablet device that runs Kali Linux, a popular penetration testing operating system. It includes various tools for assessing the security of BLE devices. You can buy it from the Pwnie Express website: https://shop.pwnieexpress.com/products/pwnpad
+
+
+SDR (Software Defined Radio) :
+  HackRF One - a popular open-source SDR platform that can transmit and receive radio signals from 1 MHz to 6 GHz. It includes an ARM Cortex-M4 processor that can be programmed using GNU Radio or other software-defined radio tools. You can buy it from the Great Scott Gadgets website: https://greatscottgadgets.com/hackrf/
+
+  BladeRF - another open-source SDR platform that can transmit and receive radio signals from 300 MHz to 3.8 GHz. It includes an FPGA for advanced signal processing and can be controlled using GNU Radio or other software-defined radio tools. You can buy it from the Nuand website: https://www.nuand.com/bladerf-2-micro/
+
+  RTL-SDR - a low-cost SDR platform that is based on the Realtek RTL2832U chipset. It can be used to receive signals between 24 MHz and 1.7 GHz and is compatible with most SDR software. You can buy it from various online retailers such as Amazon or NooElec.
+
+  YARD Stick One - a small, low-power SDR platform that can be used for analyzing and attacking various wireless protocols, including those used in Bluetooth Low Energy (BLE) and RFID devices. You can buy it from the Great Scott Gadgets website: https://greatscottgadgets.com/yardstickone/
+
+  Airspy Mini - a high-performance SDR platform that covers frequencies from 24 MHz to 1800 MHz. It includes a high dynamic range ADC and is compatible with most SDR software. You can buy it from the Airspy website or from various online retailers such as Amazon.
+
+
+WiFi (Wireless 802.11) :
+  WiFi Pineapple - a powerful tool for analyzing and attacking wireless networks. It includes advanced features such as rogue access point creation, man-in-the-middle attacks, and DNS spoofing. You can buy it from the Hak5 website: https://shop.hak5.org/products/wifi-pineapple
+
+  Alfa AWUS036ACH - a high-power WiFi adapter that can be used for wardriving and other wireless network analysis tasks. It supports 802.11ac and is compatible with a range of security testing tools. You can buy it from various online retailers such as Amazon or Newegg.
+
+  Pwnie Express Pwn Pad - a tablet device that runs Kali Linux, a popular penetration testing operating system. It includes various tools for assessing the security of WiFi networks. You can buy it from the Pwnie Express website: https://shop.pwnieexpress.com/products/pwnpad
+
+  Netgear Nighthawk X6S - a high-performance router that includes advanced security features such as VPN support, parental controls, and intrusion prevention. It is also compatible with various third-party firmware such as OpenWrt and DD-WRT, which can enhance its security features. You can buy it from various online retailers such as Amazon or Best Buy.
+
+  Raspberry Pi - a small, affordable computer that can be used as a platform for running security testing tools or as a network monitoring device. It can be equipped with a WiFi adapter and configured to perform various tasks such as packet capture or network scanning. You can buy it from the official Raspberry Pi website: https://www.raspberrypi.org/products/
+
+LiDAR (Light Detection and Ranging) :
+  Velodyne LiDAR sensors - a range of LiDAR sensors that can be used for various applications including security and surveillance. They offer high-resolution data capture and real-time processing capabilities. You can buy them from the Velodyne website: https://velodynelidar.com/products/
+
+  Quanergy M8 Series LiDAR sensors - another range of LiDAR sensors that can be used for security and surveillance applications. They offer long-range detection capabilities and can operate in various weather conditions. You can buy them from the Quanergy website: https://quanergy.com/products/m8-series/
+
+  LeddarTech LeddarVu sensors - a compact and cost-effective LiDAR sensor that can be used for indoor and outdoor security applications such as people counting or intrusion detection. It offers customizable field of view and range settings. You can buy it from the LeddarTech website: https://leddartech.com/products/leddarvu/
+
+  AEye iDAR - a hybrid sensor system that combines LiDAR, camera, and artificial intelligence (AI) technologies for advanced security and perception applications such as object tracking or facial recognition. You can buy it from the AEye website: https://www.aeye.ai/idar/
+
+
+Zigbee devices and networks:
+
+  Texas Instruments CC2531 USB Dongle - a low-cost Zigbee development platform that can be used as a sniffer or packet analyzer. It is compatible with various software tools such as Wireshark or TI's Packet Sniffer. You can buy it from the Texas Instruments website or from various online retailers such as Amazon or Mouser.
+
+  Digi XBee3 Zigbee Module - a compact and low-power Zigbee module that can be integrated into various IoT devices. It includes advanced security features such as encryption and authentication. You can buy it from the Digi website: https://www.digi.com/products/embedded-systems/rf-modules/2-4-ghz-modules/xbee3-zigbee-3
+
+  Silicon Labs EZSP Development Kit - a Zigbee development kit that includes various hardware and software components for developing and testing Zigbee applications. It also includes a network analyzer tool for monitoring and analyzing Zigbee network traffic. You can buy it from the Silicon Labs website: https://www.silabs.com/development-tools/wireless/mesh-networking/zigbee-ezsp-development-kit
+
+  NXP JN516x Wireless Microcontroller - a high-performance wireless microcontroller that can be used for developing Zigbee-enabled devices. It includes advanced security features such as encryption, authentication, and key management. You can buy it from the NXP website or from various online retailers such as Digikey or Mouser.
+
+  Telegesis ETRX357 Zigbee Module - a Zigbee module that provides secure and reliable wireless communication for various IoT devices. It includes advanced security features such as AES-128 encryption and certificate-based authentication. You can buy it from the Telegesis website: https://telegesis.com/products/zigbee-modules/etrx357/
+
+
+USB :
+  GoodFET: An open-source JTAG adapter that can be used for various hardware hacking tasks, including debugging and analyzing the firmware of embedded systems. It supports multiple interfaces and protocols, including SPI, I2C, and UART, and can be controlled via Python scripts or an interactive console. You can learn more about GoodFET on their website: https://goodfet.sourceforge.io/
+
+  Teensy: A small, programmable microcontroller board that can be used as a versatile tool for prototyping, testing, and security research. It has a USB interface and can emulate various USB devices, such as keyboards, mice, and gamepads, which can be useful for testing the security of USB host systems. You can find out more about Teensy on their website: https://www.pjrc.com/teensy/
+
+  Bus Pirate: A universal serial bus (USB)-controlled device that can be used for various hardware hacking applications, such as programming microcontrollers, reading and writing data to memory chips, and sniffing or injecting communication buses. It supports multiple protocols and interfaces, such as SPI, I2C, and UART, and can be controlled via a simple command line interface or a graphical user interface. You can check out more information about Bus Pirate on their website: http://dangerousprototypes.com/docs/Bus_Pirate
+
+  ChipWhisperer: A comprehensive platform for side-channel analysis (SCA) and fault injection attacks (FIAs), which can be used to evaluate the physical security of cryptographic implementations or other embedded systems. It includes hardware modules, software tools, and documentation that enable researchers to perform various SCA and FIA techniques, such as power analysis, glitching, and electromagnetic analysis. You can learn more about ChipWhisperer on their website: https://chipwhisperer.com/
+
+  USB Condom: A small adapter that can be used to protect against "juice jacking," a type of cyber attack where hackers use public charging stations to steal data from connected devices. The USB Condom blocks data transfer but allows charging, so you can stay powered up without risking your personal information. You can find out more about USB Condom on their website: https://syncstop.com/
+
+  USB Analyzer: A software tool that can monitor and analyze the traffic between USB devices and computers. It can help identify potential security vulnerabilities or malicious activities, as well as troubleshoot USB-related issues. There are various USB analyzer tools available, both commercial and open source, such as USBlyzer, Total Phase USB Protocol Analyzer, and Wireshark USB Capture Setup.
+
+  USB Rubber Ducky: A keystroke injection tool that can be used to automate tasks or launch exploits on target systems. It looks like a regular USB flash drive but acts like a keyboard when plugged in, allowing it to quickly execute pre-programmed commands. You can find out more about USB Rubber Ducky on their website: https://shop.hak5.org/products/usb-rubber-ducky-deluxe
+
+  USBKill: A small device that can perform "power surge attacks" on USB ports, which can potentially damage or destroy connected devices. This could be useful for testing the resilience of devices against physical attacks or protecting sensitive data from being accessed by unauthorized users. You can check out more information about USBKill on their website: https://usbkill.com/
+
+  USBGuardian: A USB firewall that can protect against USB-based attacks, such as BadUSB or rogue USB devices. It monitors all USB traffic and blocks any unauthorized or suspicious activity. You can learn more about USBGuardian on their website: https://www.usbguardian.com/
+
+
+CAN Interface :
+  CANtact Pro: A versatile CAN (Controller Area Network) interface that supports both CAN 2.0B and ISO15765 protocols, as well as various bit rates and modes. It can be connected to a computer via USB or Ethernet, and comes with an open-source firmware and software stack that allows for easy integration and customization. You can find out more about CANtact Pro on their website: https://linklayer.github.io/cantact/pro/
+
+  Vector CANalyzer: A professional-grade tool that provides real-time analysis and simulation of CAN networks. It supports various physical layers, such as CAN, LIN, FlexRay, and Ethernet, and can display and log messages in different formats, such as ASCII, HEX, and DBC. It also includes advanced features, such as scripting, diagnostics, and test automation. You can check out more information about Vector CANalyzer on their website: https://www.vector.com/int/en/products/products-a-z/software/canalyzer/
+
+  Kvaser Leaf Light v2: A low-cost CAN adapter that provides reliable and high-speed communication between a computer and a CAN bus network. It supports CAN 2.0A and 2.0B protocols, as well as J1939 and OBDII standards, and can be used with multiple operating systems and programming languages. You can learn more about Kvaser Leaf Light v2 on their website: https://www.kvaser.com/product/kvaser-leaf-light-v2/
+
+  Peak Systems PCAN-USB FD: A USB-to-CAN adapter that enables easy access and control of CAN networks from a computer. It supports both CAN FD and CAN 2.0B protocols, as well as various baud rates and message types. It also includes a powerful API and tools for monitoring, analyzing, and debugging CAN traffic. You can find out more about Peak Systems PCAN-USB FD on their website: https://www.peak-system.com/PCAN-USB-FD.239.0.html?&L=1
+
+  Grid Connect CAN-Ethernet Gateway: A device that enables remote access and control of CAN networks over Ethernet or Wi-Fi. It provides a secure and flexible way to interface with CAN devices from anywhere in the world, using a simple web-based interface or custom software tools. It supports multiple CAN protocols and baud rates, as well as various security features, such as SSL/TLS encryption and user authentication. You can learn more about Grid Connect CAN-Ethernet Gateway on their website: https://gridconnect.com/products/industrial-iot/can-to-ethernet-gateway
+
+
+General :
+
+  Raspberry Pi - a small, affordable computer that can be used as an IoT communication interface or as a platform for running security testing tools. You can buy it from the official Raspberry Pi website: https://www.raspberrypi.org/products/
+
+  Arduino - another microcontroller board that is popular in the IoT space. It can be used as an IoT communication interface or as a platform for running security testing tools. You can buy it from the official Arduino website: https://store.arduino.cc/
+
+  ESP8266 - a low-cost Wi-Fi module that can be used as an IoT communication interface. You can buy it from various online retailers such as Amazon or Adafruit.
+
+  ZigBee USB Stick - a USB dongle that can be used to communicate with ZigBee devices in a network. You can buy it from various online retailers such as Digikey or Amazon.
+
+  BLE Sniffer - a hardware device that can be used to capture and analyze Bluetooth Low Energy (BLE) traffic. You can buy it from various online retailers such as Adafruit or Amazon.
+
+  Software-defined radio (SDR) - a radio communication system where components are implemented in software instead of hardware. It can be used for sniffing and analyzing various wireless protocols, including those used in IoT devices. You can buy SDR hardware from various online retailers such as Amazon or NooElec.
