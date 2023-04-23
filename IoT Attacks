@@ -1,7 +1,7 @@
 
 ### Offensive Security Attack Scenarios for each of the following IoT Interfaces:
 
-# Bluetooth Low Energy (BLE) Offensive attacks
+**Bluetooth Low Energy (BLE) Offensive attacks**
 
     Bluejacking: A hacker can send an unsolicited message to a user's device over Bluetooth without their permission, potentially containing malicious content.
     Bluesnarfing: Unauthorized access of data from a Bluetooth-enabled device such as contacts, email, and text messages.
