@@ -1,7 +1,7 @@
 
- Offensive Security Attack Scenarios for each of the following IoT Interfaces:
+### Offensive Security Attack Scenarios for each of the following IoT Interfaces:
 
-Bluetooth Low Energy (BLE) Offensive attacks
+# Bluetooth Low Energy (BLE) Offensive attacks
 
     Bluejacking: A hacker can send an unsolicited message to a user's device over Bluetooth without their permission, potentially containing malicious content.
     Bluesnarfing: Unauthorized access of data from a Bluetooth-enabled device such as contacts, email, and text messages.
@@ -15,7 +15,7 @@ Bluetooth Low Energy (BLE) Offensive attacks
     Cross-transport key derivation attack: A vulnerability that allows attackers to derive long-term encryption keys from temporary session keys, leading to unauthorized access to devices.
     
     
-WiFi - 802.11 Wireless Offensive attacks
+# WiFi - 802.11 Wireless Offensive attacks
 
     Evil twin attack: An attacker creates a fake WiFi network with a similar name to a legitimate network, tricking users into joining and exposing them to malware or data theft.
     Rogue Access Point: An attacker sets up a rogue access point to intercept and monitor network traffic.
@@ -29,7 +29,7 @@ WiFi - 802.11 Wireless Offensive attacks
     Session hijacking: An attacker can steal a user's session cookies by intercepting packets sent between the user and the target website, giving them unauthorized access to the user's account.
 
 
-Controller Area Network (CAN) Offensive attacks
+# Controller Area Network (CAN) Offensive attacks
 
     Injection attack: Attackers can inject invalid or malformed messages into the CAN bus, causing the system to malfunction or crash.
     Bus-off attack: An attacker can flood the CAN bus with error messages, forcing the system to go into a "bus off" state that disables communication.
@@ -43,7 +43,7 @@ Controller Area Network (CAN) Offensive attacks
     Physical access attack: Attackers can physically access the CAN bus wires to intercept or inject messages.
 
 
-Software-Defined Radio (SDR) Offensive attacks
+# Software-Defined Radio (SDR) Offensive attacks
 
     Frequency hopping jamming: An attacker can use SDR to jam frequency-hopping signals, preventing legitimate communication between devices.
     Sniffing: An attacker can detect and intercept wireless signals transmitted over the air, including sensitive data.
@@ -57,7 +57,7 @@ Software-Defined Radio (SDR) Offensive attacks
     Interference injection: An attacker can inject interference into the wireless spectrum, potentially causing equipment malfunctions or disrupting communications.
 
 
-Zigbee - Offensive attacks
+# Zigbee - Offensive attacks
 
     Denial of service (DoS): An attacker can flood the Zigbee network with messages, causing it to become unresponsive.
     Sniffing: An attacker can intercept Zigbee messages that are being transmitted over the air, potentially revealing sensitive information.
@@ -71,7 +71,7 @@ Zigbee - Offensive attacks
     Timing attacks: An attacker can use timing information from the network to infer sensitive information about the system, such as the location of sensors or other devices.
 
 
-USB Interface - Offensive attacks
+# USB Interface - Offensive attacks
 
     Bad USB: An attacker can modify a USB device's firmware to act maliciously, potentially stealing data or executing malware on connected systems.
     Rubber ducky attack: An attacker can use a programmable USB device to execute pre-programmed scripts that perform actions such as keystroke logging or data exfiltration.
