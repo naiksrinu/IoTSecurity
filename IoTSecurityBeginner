@@ -1,0 +1,57 @@
+
+References for IoT Security Beginners 
+
+Online Courses
+  - Coursera - Introduction to Internet of Things Security by University of Colorado Boulder
+  - edX - IoT Security by University of Maryland
+  - Udacity - Secure IoT Connected Devices by Arm
+  - PluralSight - IoT Security Fundamentals
+  - IoT Security Foundation (IoTSF) - Best Practices and Guidelines for IoT Security
+  - OWASP Internet of Things Project - IoT Security Guidance and Testing Guide
+  - NIST - Cybersecurity for IoT Program
+
+
+HandsOn Labs 
+  - IoT Village Labs: The IoT Village provides hands-on labs for various IoT devices and systems, including Raspberry Pi, Amazon Echo, smart home devices, and medical devices. You can find more information on their website: https://www.iotvillage.org/labs
+  - Penetration Testing IoT Devices: This lab covers different techniques for penetration testing IoT devices, including firmware analysis, network scanning, and exploiting vulnerabilities. You can find the lab guide and virtual environment at the following link: https://github.com/scriptingxss/Pentesting-IoT-Devices
+  - Introduction to Industrial Control Systems (ICS) Security: This lab provides an introduction to ICS security and covers topics such as network architecture, protocols, and security controls. The lab is available on the Cybersecurity and Infrastructure Security Agency (CISA) website: https://www.us-cert.gov/ics/Training-Available-Through-US-CERT
+  - Building Secure IoT Applications with AWS: This lab covers how to build secure IoT applications using Amazon Web Services (AWS) tools and services. The lab is available on the AWS Training and Certification website: https://aws.amazon.com/training/course-descriptions/building-secure-iot-applications/
+  - Microsoft IoT Security: This lab covers different security aspects of IoT devices and systems, including device identity, data protection, and access control. The lab is available on the Microsoft Learn website: https://docs.microsoft.com/en-us/learn/modules/secure-iot-solutions/
+
+
+Standards (HealthCare, Automotive, IT OT, SCADA, Manufacturing, IT)
+
+  Healthcare:
+      HIPAA Security Rule
+      FDA Guidance on Medical Device Cybersecurity 
+  Automotive:
+      ISO 21434 Automotive Cybersecurity Engineering
+      SAE J3061 Cybersecurity Guidebook for Cyber-Physical Vehicle Systems
+  IT/OT:
+      ISA/IEC 62443 Industrial Automation and Control Systems Security
+      NIST SP 800-82 Rev. 2 Guide to Industrial Control Systems (ICS) Security
+      IEC 62351 Power Systems Management and Associated Information Exchange - Data and Communications Security 
+  SCADA:
+      ANSI/ISA-99 Security for Industrial Automation and Control Systems
+      NERC CIP Standards for Bulk Power System Cybersecurity
+  Manufacturing:
+      Cybersecurity Framework for Manufacturing by National Institute of Standards and Technology (NIST)
+      Industrial Internet Security Framework (IISF) by Industrial Internet Consortium (IIC)
+  IT:
+      ISO/IEC 27001 Information Security Management System (ISMS)
+      Payment Card Industry Data Security Standard (PCI DSS)
+      Cloud Security Alliance (CSA) Security, Trust & Assurance Registry (STAR)
+      
+    
+  IoT Security Guides
+    https://www.dsci.in/sites/default/files/documents/resource_centre/IoT%20Security%20Guide.pdf
+    https://www.hkcert.org/f/guideline/263068/d274b0a7-6272-4cc3-8f32-ab1e83d38500-DLFE-14308.pdf 
+    https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/973928/Mapping_of_IoT__Security_Recommendations_Guidance_and_Standards_to_CoP_Oct_2018_V2.pdf
+    https://www.gsma.com/iot/wp-content/uploads/2018/08/CLP.-11-v2.0.pdf
+    https://www.eurosmart.com/wp-content/uploads/2019/11/Part-2-Eurosmart_IoTsCS-GPP_v1.2_RELEASE.pdf
+    
+        
+  Sample IoT Security Reports
+      IoT Penetration Testing Framework - Sample Reports
+      Open Web Application Security Project (OWASP) - IoT Attack Surface Mapping
+
