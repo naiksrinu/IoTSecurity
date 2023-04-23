@@ -15,12 +15,12 @@ https://github.com/naiksrinu/IoTSecurity/blob/master/IoTSecurityHardwareArsenal
 
 
 IoT Attack Scenarios  
-  BLE Attacks / Bluetooth Attacks
-  WiFi Attacks
-  SDR Attacks / RF Attacks
-  CAN Attacks
-  ZigBee Attacks
-  USB Attacks  
+  - BLE Attacks / Bluetooth Attacks
+  - WiFi Attacks
+  - SDR Attacks / RF Attacks
+  - CAN Attacks
+  - ZigBee Attacks
+  - USB Attacks  
 Ref : https://github.com/naiksrinu/IoTSecurity/blob/master/IoT%20Attacks
 
 
