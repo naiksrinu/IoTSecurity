@@ -12,3 +12,12 @@ IoT Security Tools & Bounties
 
 IoT Security Arsenal Suite
 https://github.com/naiksrinu/IoTSecurity/blob/master/IoTSecurityHardwareArsenal
+
+
+IoT Attack Scenarios
+  BLE Attacks / Bluetooth Attacks
+  WiFi Attacks
+  SDR Attacks / RF Attacks
+  CAN Attacks
+  
+  
