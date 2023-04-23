@@ -6,6 +6,10 @@ IoT Security for Industries
   - Logistics 
   - SCADA
 
+<div align="left">
+  <img src="https://github.com/naiksrinu/IoTSecurity/blob/master/2020/robot.gif" alt="IoT Security" width="200" height="250"/>
+</div>
+
 <!--- Copy from here --->
 # List of IoT External Interfaces
 
