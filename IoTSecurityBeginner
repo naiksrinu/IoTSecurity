@@ -17,7 +17,9 @@ HandsOn Labs
   - Introduction to Industrial Control Systems (ICS) Security: This lab provides an introduction to ICS security and covers topics such as network architecture, protocols, and security controls. The lab is available on the Cybersecurity and Infrastructure Security Agency (CISA) website: https://www.us-cert.gov/ics/Training-Available-Through-US-CERT
   - Building Secure IoT Applications with AWS: This lab covers how to build secure IoT applications using Amazon Web Services (AWS) tools and services. The lab is available on the AWS Training and Certification website: https://aws.amazon.com/training/course-descriptions/building-secure-iot-applications/
   - Microsoft IoT Security: This lab covers different security aspects of IoT devices and systems, including device identity, data protection, and access control. The lab is available on the Microsoft Learn website: https://docs.microsoft.com/en-us/learn/modules/secure-iot-solutions/
-
+  - IoT Hacking 101: This lab provides an introduction to IoT hacking and covers topics such as firmware analysis, network scanning, and exploiting vulnerabilities. The lab is available on the Hack The Box website: https://www.hackthebox.eu/home/labs/profile/58
+  - Secure Your IoT Devices: This lab covers how to secure IoT devices using different security controls and techniques, such as encryption, access control, and secure boot. The lab is available on the CYBER.ORG website: https://www.cyber.org/cyber-lessons/securing-your-iot-devices
+  - IoT Security Fundamentals: This lab covers fundamental concepts of IoT security, such as threat modeling, risk assessment, and security design patterns. The lab is available on the Pluralsight website: https://www.pluralsight.com/courses/iot-security-fundamentals
 
 Standards (HealthCare, Automotive, IT OT, SCADA, Manufacturing, IT)
 
