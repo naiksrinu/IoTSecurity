@@ -6,7 +6,7 @@ IoT Security for Industries
   - Logistics 
   - SCADA
   
->>> IoT Security Group for Active Discussion : https://t.me/iotsecuritygroup 
+`Join IoT Security Group for Active Discussion @ Telegram` : [IoT Security Group](https://t.me/iotsecuritygroup)    :+1:
 
 <div align="left">
   <img src="https://github.com/naiksrinu/IoTSecurity/blob/master/2020/robot.gif" alt="IoT Security" width="200" height="250"/>
