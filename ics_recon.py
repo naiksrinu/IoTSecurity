@@ -1,6 +1,9 @@
 # ICS Recon Script Ver 1.8
 # Performs ICS Devices Scanning, Protocols, CVE scan
 # __author__ = Naik 
+# Description : The ICS Recon script provides a set of security-related tasks that can be performed for network scanning, protocol identification, system information discovery, and application identification. 
+# The advantages of this script include the ability to quickly identify open ports on a given network range, get real-time log analysis for network traffic, monitor critical system resources like CPU and memory usage, 
+# and identify potential vulnerabilities in web applications. Further, it will evolve machine learning algorithms  integrated within  to provide more accurate predictions of potential system vulnerabilities and threats # detection.
 
 import argparse
 import json
