@@ -7,30 +7,234 @@ Find below tools to perform Security Assessments on IoT (Internet of Things).
 
 # Internal Interfaces
     WiFi Interface
-         Description #01  : WiFi protocol fuzzing tool using openwifi
-         Link             : https://github.com/alipay/Owfuzz 
+         Description #01: WiFi protocol fuzzing tool using openwifi
+         Link           : https://github.com/alipay/Owfuzz 
         
-         Description #02  : WiFi Brute Force. script undetectable and secure!
-         Link             : https://github.com/Squuv/WifiBF
+         Description #02: WiFi Brute Force. script undetectable and secure!
+         Link           : https://github.com/Squuv/WifiBF
          
-         Description #03  : A python program to create a fake AP and sniff data
-         Link             : https://github.com/xdavidhu/mitmAP
+         Description #03: A python program to create a fake AP and sniff data
+         Link           : https://github.com/xdavidhu/mitmAP
          
+         Linset         : An evil twin attack tool for Wi-Fi networks.
+         Link: https://github.com/chunkingz/linsetmv
          
-    BLE Interface
-    
-    
-    
-    RF Interface
-    
-    
-    ZigBee Interface
-    
-    
-External Interfaces
+   LORA Interface:
+        RFSec-ToolKit   : A collection of Radio Frequency Communication Protocol Hacktools.
+        Link            : https://github.com/cn0xroot/rfsec-toolkit
 
-    LTE Interface
-        Description  #01    : 
-    
-    
-    
+        LoraDump        : A tool for receiving and decoding LoRa packets.
+        Link            : https://github.com/rpp0/lora-dump
+
+        lora-packet: A library for encoding/decoding LoRa packets.
+        Link: https://github.com/Lora-net/lora_gateway/tree/master/libloragw/inc
+
+        Lora Discovery: A tool for discovering LoRa devices.
+        Link: https://github.com/marceloaqno/loradiscovery
+
+        sx127x-radio: A Python library for controlling Semtech SX127x-based LoRa radios.
+        Link: https://github.com/mayermakes/sx127x-radio
+
+        rtl-sdr: A command-line tool for RTL2832 based DVB-T receivers that can be used as a SDR.
+        Link: https://osmocom.org/projects/rtl-sdr/wiki/Rtl-sdr
+
+        SoapySDR: A vendor and platform neutral SDR support library.
+        Link: https://github.com/pothosware/SoapySDR
+
+        GQRX: An open source software-defined radio receiver powered by GNU Radio and Qt.
+        Link: http://gqrx.dk/
+
+    RF Interface:
+        Universal Radio Hacker: A suite for investigating radio frequencies.
+        Link: https://github.com/jopohl/urh
+
+        GNURadio: A free & open-source software development toolkit for building custom radio systems.
+        Link: https://www.gnuradio.org/
+
+        gr-gsm: A GNU Radio based GSM/EDGE Software Defined Radio.
+        Link: https://github.com/ptrkrysik/gr-gsm
+
+        Kalibrate: A tool for finding the local oscillator frequency offset of a GSM base station.
+        Link: https://github.com/steve-m/kalibrate-rtl
+
+        rtlsdr-scanner: A cross platform Python based spectrum analyzer using an RTL-SDR dongle.
+        Link: https://github.com/EarToEarOak/RTLSDR-Scanner
+
+        TempestSDR: A software defined radio (SDR) tool for turning your SDR into a spy tool.
+        Link: https://github.com/martinmarinov/TempestSDR
+
+        HackRF One: A software-defined radio platform to test security systems.
+        Link: https://greatscottgadgets.com/hackrf/
+
+        BladeRF: A fully open-source SDR platform that covers frequencies from 300MHz to 3.8GHz.
+        Link: https://www.nuand.com/
+
+    BLE Interface:
+        BluePy: A Bluetooth Low Energy interface for Python.
+        Link: https://github.com/IanHarvey/bluepy
+
+        PyLEF: A Python library for decoding and analyzing Bluetooth Low Energy frames.
+        Link: https://github.com/digitalbitbox/pylef
+
+        Btlejack: A Bluetooth Low Energy swiss-army knife.
+        Link: https://github.com/virtualabs/btlejack
+
+        GATTacker: A BLE security assessment and exploitation toolkit.
+        Link: https://github.com/securing/gattacker
+
+        BlueMaho: A tool for the discovery and assessment of Bluetooth devices.
+        Link: https://github.com/pauloborges/bluemaho
+
+        BLEAH: A BLE scanner for "smart" devices hacking based on the bluepy library.
+        Link: https://github.com/trycatchhcf/BLEAH
+
+        BTLE-Sniffer: A small software to capture Bluetooth LE packets from a Broadcom-based Bluetooth sniffer (like the Ubertooth).
+        Link: https://github.com/JiaoXianjun/BTLE
+
+        NrfSniffer: A low cost or free NRF51/NRF52 development kit (DK) or dongle that is used to capture BLE packets.
+        Link: https://github.com/hlnd/nrfsniffer
+        
+    SIGFOX Interface:
+        Sigfox-BLE-Scanner: A scanner for Sigfox devices that uses Bluetooth Low Energy (BLE).
+        Link: https://github.com/vaclavkosar/sigfox-ble-scanner
+
+        Sigfox-Decoder: A tool to decode Sigfox messages.
+        Link: https://github.com/BaptisteFl/Sigfox_decoder
+
+        PySigfox: A Python library for communicating with Sigfox-compatible devices.
+        Link: https://pypi.org/project/pysigfox/
+
+        Pycom: A set of libraries developed by Pycom for their line of IoT development boards that support Sigfox, LoRa, LTE-M, and NB-IoT.
+        Link: https://docs.pycom.io/firmwareapi/pycom/network/sigfox/
+
+        Sigfox-Analyzer: A tool for analyzing Sigfox messages.
+        Link: https://github.com/BastienDulac/sigfox-analyzer
+
+        Sigfox-Receiver: A receiver for decoding Sigfox transmissions.
+        Link: https://github.com/RafaelLimaUFV/Sigfox-Receiver
+
+        SigfoxProxy: A proxy server for Sigfox messages.
+        Link: https://github.com/vthompson/sigfoxproxy
+
+        HackRF One: A software-defined radio platform that can be used for Sigfox hacking.
+        Link: https://greatscottgadgets.com/hackrf/
+
+   GPS Interface:
+        GPS Replay: A lightweight tool to replay NMEA GPS data.
+        Link: https://github.com/ewramner/gps-replay
+
+        GPSd: A service daemon that monitors one or more GPSes attached to a host computer through serial or USB ports.
+        Link: https://gpsd.gitlab.io/gpsd/
+
+        Gpredict: A real-time satellite tracking and orbit prediction application.
+        Link: https://github.com/csete/gpredict
+
+        GNSS-SDRLIB: A collection of tools for processing GNSS signals with software defined radios (SDRs).
+        Link: https://github.com/osqzss/gnss-sdrlib
+
+        RTKLIB: An open source program package for standard and precise positioning with GNSS (global navigation satellite system).
+        Link: https://github.com/tomojitakasu/RTKLIB
+
+        GPSBabel: A free software to transfer waypoints, routes, and tracks between GPS receivers and mapping programs.
+        Link: https://www.gpsbabel.org/
+
+        GPSMapEdit: A program designed for visual authoring of GPS maps in various popular formats.
+        Link: https://www.geopainting.com/en/
+
+        GPS Visualizer: A free online utility that creates maps and profiles from GPS data.
+        Link: https://www.gpsvisualizer.com/
+
+  GPRS Interface:
+        gsm-tools: A collection of utilities built around GSM networks and modems.
+        Link: https://github.com/CellularPrivacy/gsm-tools
+
+        GR-GSM: A GNU Radio based software-defined radio receiver that can monitor GSM traffic.
+        Link: https://github.com/ptrkrysik/gr-gsm
+
+        OsmocomBB: A free software GSM stack implementation that runs on certain hardware.
+        Link: https://osmocom.org/projects/baseband/wiki/OsmocomBB
+
+        GnuRADIO: A free & open-source software development toolkit for building custom radio systems.
+        Link: https://www.gnuradio.org/
+
+        YateBTS: A software implementation of a GSM/GPRS radio access network based on Yate and OpenBSC.
+        Link: https://yatebts.com/
+
+        Airprobe: A set of tools used to receive and decode GSM signals with software-defined radio (SDR).
+        Link: https://osmocom.org/projects/airprobe/wiki/Airprobe_main
+
+        Gsmmap: An open source project that tracks the state of GSM security.
+        Link: https://gsmmap.org/
+
+        OsmocomTETRA: An open source TETRA stack implementation.
+        Link: https://osmocom.org/projects/osmotetra/wiki/OsmoTETRA
+        
+        srsLTE: An open source software radio platform for 3GPP LTE.
+        Link: https://github.com/srsran/srsLTE
+
+        gr-lte: A GNU Radio based 3GPP LTE receiver that can decode LTE signals.
+        Link: https://github.com/argilo/gr-lte
+
+        OpenLTE: A fully open-source 3GPP LTE implementation designed for SDRs and general-purpose hardware platforms.
+        Link: https://github.com/rpp0/openlte
+
+        QRadioLink: An open source software-defined radio project that implements a cellular GSM/GPRS system on top of the GNU Radio building blocks.
+        Link: https://github.com/QRadioLink/qradiolink
+
+        osmo-gsm-tester: A tool to automate testing of mobile devices in a GSM network.
+        Link: https://osmocom.org/projects/osmo-gsm-tester/wiki/OsmoGsmTester
+
+        OAI: An open source EPC (evolved packet core) implementation for 4G LTE networks.
+        Link: https://www.openairinterface.org/
+
+    LoRaWAN Interface:
+        LoraTraffic: A traffic analyzer for LoRaWAN networks.
+        Link: https://github.com/nrocco/lora-traffic
+
+        The Things Network: A global, crowd-sourced LoRaWAN network.
+        Link: https://www.thethingsnetwork.org/
+
+        Pycom: A set of libraries developed by Pycom for their line of IoT development boards that support Sigfox, LoRa, LTE-M, and NB-IoT.
+        Link: https://docs.pycom.io/firmwareapi/pycom/network/lora/
+
+        RN2483 Library: A Python library for communicating with Microchip's RN2483 LoRaWAN module.
+        Link: https://github.com/jieter/python-rn2483
+
+        Lora-net: A repository for the official Semtech LoRa radio driver library.
+        Link: https://github.com/Lora-net/LoRaMac-node
+
+        LoRa Gateway: A gateway for LoRaWAN networks.
+        Link: https://github.com/Lora-net/lora_gateway
+
+        LoraTap: A tool for capturing and analyzing LoRaWAN traffic.
+        Link: https://github.com/PentHertz/LoraTap
+
+        TTN Mapper: An open source project that maps The Things Network coverage by crowdsourcing signal strength data.
+        Link: https://ttnmapper.org/
+
+    Zigbee Interface:
+        KillerBee: A suite of tools that can be used to assess and attack ZigBee networks.
+        Link: https://www.cr0.org/p/KillerBee/
+
+        ZBOSS Sniffer: A hardware-based Zigbee sniffer developed by Texas Instruments.
+        Link: https://www.ti.com/tool/Z-STACK-SNIFFER
+
+        Zigbee2MQTT: A popular open-source project that allows you to control Zigbee devices from different vendors without the need for their proprietary hubs.
+        Link: https://www.zigbee2mqtt.io/
+
+        Wireshark: A widely used network protocol analyzer that lets you see what’s happening on your network at a microscopic level, including ZigBee traffic.
+        Link: https://www.wireshark.org/
+
+        Z3Gateway: A Zigbee-to-TCP gateway that provides simple, secure & scalable connectivity for IoT devices.
+        Link: https://github.com/zgluecode/z3gateway
+
+        EZSP: A serial protocol used by Silicon Labs' Zigbee chips, with an open source implementation available.
+        Link: https://github.com/ElevenPaths/EZSPy
+
+        Z-Wave: An alternative to Zigbee, Z-Wave is a wireless communication protocol designed primarily for home automation.
+        Link: https://www.z-wave.com/
+
+        Zigbee Alliance: An organization of companies creating open, global standards for IoT.
+        Link: https://zigbeealliance.org/
+        
+        
